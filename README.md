@@ -1,3 +1,4 @@
+This repository was created for the purpose of downloading their common Google tables of participants and displaying information on the site
 
 Notes:
 - The data is obtained from Google spreadsheets in the helpers/read_data_from_google_table.py file
