@@ -1,5 +1,4 @@
-This repository was created for the purpose of downloading their common Google tables of participants and displaying information on the site
-
+This repository was created to display the results of Subspace mission participants from Google Sheets.
 Notes:
 - The data is obtained from Google spreadsheets in the helpers/read_data_from_google_table.py file
 - Folder with templates: subspace_dashboard/templates
